@@ -1,3 +1,5 @@
-> Our default community health files for all our repositories on GitHub.
+# .github
 
-Learn more: <https://docs.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file>.
+*Community health files for the [@Valtrix](https://github.com/valtrix-co) organization*
+
+For more information, please see the article on [creating a default community health file for your organization](https://help.github.com/en/articles/creating-a-default-community-health-file-for-your-organization).
