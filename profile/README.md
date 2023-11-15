@@ -1,5 +1,5 @@
 <p align="center">
   <kbd>
-    <img src="https://github.com/valtrix-co/.github/assets/87664239/59a4741d-b52e-40db-9ef5-ba7337cbd67c" alt="Valtrix Logo" width="500">
+    <img src="https://github.com/valtrix-co/.github/assets/87664239/45ed42bc-92f3-40fc-a9f1-d0c122c4bbfa" alt="Valtrix Thumbnail">
   </kbd>
 </p>
